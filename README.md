@@ -1,4 +1,4 @@
 ### FB 
 [x] photos (feature-photos)
-[ ] intro (feature-intro)
+[x] intro (feature-intro)
 [ ] sidebar (feature-sidebar)
